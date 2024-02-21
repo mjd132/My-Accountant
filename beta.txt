@@ -1,0 +1,2 @@
+1- account controller : put  with  automapper and modeldto
+2- accounting controller be add and repositories
